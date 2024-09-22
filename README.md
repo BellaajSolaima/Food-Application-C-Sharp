@@ -9,9 +9,9 @@ Grâce à des fonctionnalités back-end robustes en C# et une interface front-en
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](Screenshots/Capture5.png)  
-![Screenshot 2](Screenshots/Capture1.png)  
-![Screenshot 3](Screenshots/Capture2.png)
-![Screenshot 3](Screenshots/Capture7.png)
-![Screenshot 3](Screenshots/Capture4.png)
-![Screenshot 3](Screenshots/Capture3.png)
+![Screenshot 1](Screenshots/Capture5.jpeg)  
+![Screenshot 2](Screenshots/Capture1.jpeg)  
+![Screenshot 3](Screenshots/Capture2.jpeg)
+![Screenshot 3](Screenshots/Capture7.jpeg)
+![Screenshot 3](Screenshots/Capture4.jpeg)
+![Screenshot 3](Screenshots/Capture3.jpeg)
